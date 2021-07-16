@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "SZXAPGVG"
+cheat0_enable = false
+
+cheat1_desc = "Start with 5 hearts of health on a new life (instead of 2)"
+cheat1_code = "ZEVEGLGE"
+cheat1_enable = false
+
+cheat2_desc = "Energy boosted shot"
+cheat2_code = "GXKIIPEY"
+cheat2_enable = false
+
+cheat3_desc = "Start with 10 hearts"
+cheat3_code = "GOVEGLGA"
+cheat3_enable = false
+
+cheat4_desc = "Start with 10 heart capacity"
+cheat4_code = "GONAAUZA"
+cheat4_enable = false
+
+cheat5_desc = "Infinite jump height"
+cheat5_code = "AAOIPPAZ"
+cheat5_enable = false
+
+cheat6_desc = "Invincibility (can get stuck in pits)"
+cheat6_code = "NNXAPKYX"
+cheat6_enable = false
